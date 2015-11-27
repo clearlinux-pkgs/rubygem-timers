@@ -1,2 +1,28 @@
 # This file contains additional build requirements that did not get
 # picked up automatically. One name per line, no whitespace.
+ruby
+rubygem-bundler
+rubygem-coveralls
+rubygem-devise
+rubygem-diff-lcs
+rubygem-docile
+rubygem-domain_name
+rubygem-hitimes
+rubygem-http-cookie
+rubygem-mime-types
+rubygem-netrc
+rubygem-rake
+rubygem-rdoc
+rubygem-rest-client
+rubygem-rspec
+rubygem-rspec-core
+rubygem-rspec-expectations
+rubygem-rspec-mocks
+rubygem-rspec-support
+rubygem-simplecov
+rubygem-simplecov-html
+rubygem-term-ansicolor
+rubygem-thor
+rubygem-tins
+rubygem-unf
+rubygem-unf_ext
