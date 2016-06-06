@@ -1,0 +1,4 @@
+# File auto-generated with 'Watchfile generator'
+# 2016-05-06 18:22:16.302818
+# {'~>4.0.0'}
+watchurl=https://rubygems.org/gems/timers/versions/([0-4]\.0(?:\.[0-9]{1,2})*)
